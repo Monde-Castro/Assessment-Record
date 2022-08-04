@@ -1,0 +1,14 @@
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.exe.config
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments_Record.frmAssessmentRecord.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments_Record.Resources.resources
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.vbproj.GenerateResource.Cache
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.exe
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.xml
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.pdb
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\bin\Debug\Assessments Record.application
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.exe.manifest
+C:\Users\FileSharing\Desktop\Projects\Visual Basic\PCP\Assessments Record\Assessments Record\obj\Debug\Assessments Record.application
